@@ -21,6 +21,7 @@ namespace Command_Design_Pattern.Controllers
 
         public IActionResult Index()
         {
+            //deneme irem
             return View();
         }
 
