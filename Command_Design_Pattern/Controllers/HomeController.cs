@@ -15,6 +15,7 @@ namespace Command_Design_Pattern.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //deneme
             _logger = logger;
         }
 
